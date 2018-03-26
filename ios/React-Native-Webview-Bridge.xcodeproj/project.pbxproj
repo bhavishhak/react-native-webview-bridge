@@ -231,6 +231,7 @@
 					"$(inhereted)",
 					"$(SRCROOT)/../../../node_module/React/**",
 					"$(SRCROOT)/../../../node_modules/react-native/React/**",
+					"\"${PODS_ROOT}/Headers/Public\"/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_LDFLAGS = "-ObjC";
@@ -246,6 +247,7 @@
 					"$(inhereted)",
 					"$(SRCROOT)/../../../node_module/React/**",
 					"$(SRCROOT)/../../../node_modules/react-native/React/**",
+					"\"${PODS_ROOT}/Headers/Public\"/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_LDFLAGS = "-ObjC";
